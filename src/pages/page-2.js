@@ -12,8 +12,8 @@ const SecondPage = () => (
     <p>Welcome to page 2</p>
     <Link to="/">Go back to the homepage</Link>
     <div>
-    <OutboundLink href="https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/">
-      Visit the Google Analytics plugin page!
+    <OutboundLink href="https://analytics.google.com/analytics/web/#/report-home/a166058510w237421472p222098761">
+      Google アナリティクスホーム
     </OutboundLink>
   </div>
   </Layout>
